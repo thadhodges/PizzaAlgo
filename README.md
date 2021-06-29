@@ -1,3 +1,6 @@
 # PizzaAlgo
 Git Exercise
 Wanted to add a file to be able to have something to PULL....
+OK, so now I have pulled this into a different CLI, and will attempt to make a change and push back to github and then pull changes to my laptop...
+
+Here goes nothing!
