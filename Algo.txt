@@ -1,3 +1,6 @@
 Step 1 - Decide which Business to Order From
 Step 2 - Decide what type of pizza to Order
 Step 3 - Decide what toppings you want
+Step 4 - Choose toppings from list
+Step 5 - Complete choosing toppings
+Step 6 - Choose side items
